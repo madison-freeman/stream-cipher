@@ -76,9 +76,7 @@
 * ciphertext #7: We can see the point where the chip is unhappy if a wrong bit is sent and consumes more power from the environment - Adi Shamir
 * ciphertext #8: A (private-key)  encryption scheme states 3 algorithms, namely a procedure for generating keys, a procedure for encrypting, and a procedure for decrypting.
 * ciphertext #9: The Concise OxfordDictionary (2006) defines crypto as the art of writing or solving codes
-  
-  The secret message is: When using a stream cipher, never use the key more
-  than once
+* The secret message is: When using a stream cipher, never use the key more than once
  
   ## Author<a name="author"></a>
 * [Madison F.](https://github.com/madison-freeman)
